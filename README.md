@@ -77,11 +77,6 @@ python main.py decode --input stego.png --seed "your seed phrase or private key"
 - **Desktop Application**: Develop a user-friendly desktop application with a graphical interface.
 - **Seed Phrase Generation**: Implement functionality to generate BIP-39 seed phrases within the application.
 - **Variable LSB Bits**: Allow users to choose the number of LSBs to use for embedding, offering a trade-off between capacity and imperceptibility.
-## Future Enhancements
-
-- **Desktop Application**: Develop a user-friendly desktop application with a graphical interface.
-- **Seed Phrase Generation**: Implement functionality to generate BIP-39 seed phrases within the application.
-- **Variable LSB Bits**: Allow users to choose the number of LSBs to use for embedding, offering a trade-off between capacity and imperceptibility.
 - **Image Size Preservation**: Investigate techniques to maintain similar file sizes between original and stego images to avoid suspicion.
 
 ## Screenshots
@@ -90,40 +85,40 @@ python main.py decode --input stego.png --seed "your seed phrase or private key"
 ![Steganocrypt GUI](screenshots/1.steganocrypt.png)
 
 ### 2. Steganocrypt Encoding
-![Steganocrypt Encoding](screenshots/2. steganocrypt Encoding.png)
+![Steganocrypt Encoding](screenshots/2._steganocrypt_Encoding.png)
 
 ### 3. Private Key Generation
-![Private Key Generation](screenshots/3. Private Key Generation.png)
+![Private Key Generation](screenshots/3._Private_Key_Generation.png)
 
 ### 4. Private Key Saving
-![Private Key Saving](screenshots/4. Private Key Saving.png)
+![Private Key Saving](screenshots/4._Private_Key_Saving.png)
 
 ### 5. Encoding
-![Encoding](screenshots/5. Encoding.png)
+![Encoding](screenshots/5._Encoding.png)
 
 ### 6. Encoding Successful
-![Encoding Successful](screenshots/6. Encoding Successful.png)
+![Encoding Successful](screenshots/6._Encoding_Successful.png)
 
 ### 7. Private Key Look
-![Private Key Look](screenshots/7. Private Key Look.png)
+![Private Key Look](screenshots/7._Private_Key_Look.png)
 
 ### 8. Steganocrypt Decoding
-![Steganocrypt Decoding](screenshots/8. steganocrypt Decoding.png)
+![Steganocrypt Decoding](screenshots/8._steganocrypt_Decoding.png)
 
 ### 9. Steganocrypt Decoding 2
-![Steganocrypt Decoding 2](screenshots/9. steganocrypt Decoding 2.png)
+![Steganocrypt Decoding 2](screenshots/9._steganocrypt_Decoding_2.png)
 
 ### 11. Private Key Verification For Decoding
-![Private Key Verification For Decoding](screenshots/11. Private Key Verification For Decoding.png)
+![Private Key Verification For Decoding](screenshots/11._Private_Key_Verification_For_Decoding.png)
 
 ### 12. Decode Successful
-![Decode Successful](screenshots/12. Decode Successful.png)
+![Decode Successful](screenshots/12._Decode_Successful.png)
 
 ### 13. Output Payload File (Decoding Result)
-![Output Payload File (Decoding Result)](screenshots/13. Output Payload File(Decoding Result).png)
+![Output Payload File (Decoding Result)](screenshots/13._Output_Payload_File(Decoding_Result).png)
 
 ### 14. Output Payload Result (Decoding Result)
-![Output Payload Result (Decoding Result)](screenshots/14. OutPut Payload Result (Decoding Result).png)
+![Output Payload Result (Decoding Result)](screenshots/14._OutPut_Payload_Result_(Decoding_Result).png)
 
 ### 15. Files
-![Files](screenshots/15. Files.png)
+![Files](screenshots/15._Files.png)
