@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/packaging
+*.egg-info/
+*.eggs/
+dist/
+build/
+
+# App outputs
+*.bin
+*_decoded.bin
+*_stego.png
+
+# IDE/editor
+.vscode/
+.idea/

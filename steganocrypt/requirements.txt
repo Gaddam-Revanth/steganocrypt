@@ -1,0 +1,3 @@
+Pillow==10.3.0
+pycryptodomex==3.23.0
+mnemonic
