@@ -77,4 +77,53 @@ python main.py decode --input stego.png --seed "your seed phrase or private key"
 - **Desktop Application**: Develop a user-friendly desktop application with a graphical interface.
 - **Seed Phrase Generation**: Implement functionality to generate BIP-39 seed phrases within the application.
 - **Variable LSB Bits**: Allow users to choose the number of LSBs to use for embedding, offering a trade-off between capacity and imperceptibility.
+## Future Enhancements
+
+- **Desktop Application**: Develop a user-friendly desktop application with a graphical interface.
+- **Seed Phrase Generation**: Implement functionality to generate BIP-39 seed phrases within the application.
+- **Variable LSB Bits**: Allow users to choose the number of LSBs to use for embedding, offering a trade-off between capacity and imperceptibility.
 - **Image Size Preservation**: Investigate techniques to maintain similar file sizes between original and stego images to avoid suspicion.
+
+## Screenshots
+
+### 1. Steganocrypt GUI
+![Steganocrypt GUI](screenshots/1.steganocrypt.png)
+
+### 2. Steganocrypt Encoding
+![Steganocrypt Encoding](screenshots/2. steganocrypt Encoding.png)
+
+### 3. Private Key Generation
+![Private Key Generation](screenshots/3. Private Key Generation.png)
+
+### 4. Private Key Saving
+![Private Key Saving](screenshots/4. Private Key Saving.png)
+
+### 5. Encoding
+![Encoding](screenshots/5. Encoding.png)
+
+### 6. Encoding Successful
+![Encoding Successful](screenshots/6. Encoding Successful.png)
+
+### 7. Private Key Look
+![Private Key Look](screenshots/7. Private Key Look.png)
+
+### 8. Steganocrypt Decoding
+![Steganocrypt Decoding](screenshots/8. steganocrypt Decoding.png)
+
+### 9. Steganocrypt Decoding 2
+![Steganocrypt Decoding 2](screenshots/9. steganocrypt Decoding 2.png)
+
+### 11. Private Key Verification For Decoding
+![Private Key Verification For Decoding](screenshots/11. Private Key Verification For Decoding.png)
+
+### 12. Decode Successful
+![Decode Successful](screenshots/12. Decode Successful.png)
+
+### 13. Output Payload File (Decoding Result)
+![Output Payload File (Decoding Result)](screenshots/13. Output Payload File(Decoding Result).png)
+
+### 14. Output Payload Result (Decoding Result)
+![Output Payload Result (Decoding Result)](screenshots/14. OutPut Payload Result (Decoding Result).png)
+
+### 15. Files
+![Files](screenshots/15. Files.png)
